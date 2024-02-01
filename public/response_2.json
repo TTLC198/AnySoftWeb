@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Best deal",
+    "discount": 90,
+    "endTime": "2024-05-11T12:00:00.000Z",
+    "coverImage": "https://cdn.pixabay.com/photo/2018/02/23/04/38/computer-3174729_960_720.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Best deal",
+    "discount": 90,
+    "endTime": "2024-04-25T24:00:00.000Z",
+    "coverImage": "https://images.pexels.com/photos/240572/pexels-photo-240572.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Best deal",
+    "discount": 90,
+    "endTime": "2024-05-11T24:00:00.000Z",
+    "coverImage": "https://cdn.pixabay.com/photo/2017/06/21/07/33/background-2426328_960_720.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Best deal",
+    "discount": 90,
+    "endTime": "2024-05-11T12:00:00.000Z",
+    "coverImage": "https://cdn.pixabay.com/photo/2018/02/23/04/38/computer-3174729_960_720.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Best deal",
+    "discount": 90,
+    "endTime": "2024-05-11T12:00:00.000Z",
+    "coverImage": "https://cdn.pixabay.com/photo/2018/02/23/04/38/computer-3174729_960_720.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Best deal",
+    "discount": 90,
+    "endTime": "2024-05-11T12:00:00.000Z",
+    "coverImage": "https://cdn.pixabay.com/photo/2018/02/23/04/38/computer-3174729_960_720.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Best deal",
+    "discount": 90,
+    "endTime": "2024-05-11T12:00:00.000Z",
+    "coverImage": "https://cdn.pixabay.com/photo/2018/02/23/04/38/computer-3174729_960_720.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Best deal",
+    "discount": 90,
+    "endTime": "2024-05-11T12:00:00.000Z",
+    "coverImage": "https://cdn.pixabay.com/photo/2018/02/23/04/38/computer-3174729_960_720.jpg"
+  }
+]

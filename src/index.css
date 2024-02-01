@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Panton';
+  src: url('./fonts/Panton/Panton-Bold.ttf');
+  src: local('Panton Bold'), local('Panton-Bold'),
+  url('./fonts/Panton/Panton-Bold.eot?#iefix') format('embedded-opentype'),
+  url('./fonts/Panton/Panton-Bold.woff') format('woff'),
+  url('./fonts/Panton/Panton-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Panton';
+  src: local('Panton Regular'), local('Panton-Regular'),
+  url('./fonts/Panton/Panton-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Panton';
+  src: local('Panton Bold Italic'), local('Panton-BoldItalic'),
+  url('./fonts/Panton/Panton-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Akkurat Pro';
+  src: local('Akkurat Pro Bold'), local('Akkurat-Pro-Bold'),
+  url('./fonts/AkkuratPro/AkkuratBold_Pro.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Akkurat Pro';
+  src: local('Akkurat Pro Regular'),
+  url('./fonts/AkkuratPro/Akkurat_Regular_Pro.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}

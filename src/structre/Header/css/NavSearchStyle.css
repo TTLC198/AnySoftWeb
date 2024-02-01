@@ -1,0 +1,14 @@
+.search-enter {
+    transform: translateX(1600px);
+}
+.search-enter-active {
+    transform: translateX(0);
+    transition: transform 1000ms ease;
+}
+.search-exit {
+    transform: translateX(0);
+}
+.search-exit-active {
+    transform: translateX(1600px);
+    transition: transform 1000ms ease;
+}
